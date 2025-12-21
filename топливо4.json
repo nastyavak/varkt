@@ -1,0 +1,1745 @@
+[
+    {
+        "time": 0.0,
+        "current_stage": 7,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 19923.200000047684,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 0.0,
+        "current_stage": 7,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 19923.200000047684,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 0.0,
+        "current_stage": 6,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 19923.200000047684,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 0.0,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 19640.262500047684,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 1.080000000220025,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 19240.299609422684,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 2.0800000004237518,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 18862.556445360184,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 3.0800000006274786,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 18492.219531297684,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 4.000000000814907,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 18158.916796922684,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 4.840000000986038,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 17847.833300828934,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 5.640000001149019,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 17551.564257860184,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 6.440000001312001,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 17255.294726610184,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 7.240000001474982,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 16959.025195360184,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 8.040000001637964,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 16662.755664110184,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 8.800000001792796,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 16381.299609422684,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 9.600000001955777,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 16085.030078172684,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 10.400000002118759,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 15788.761035203934,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 11.120000002265442,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 15522.118457078934,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 11.600000002363231,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 15329.543750047684,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 12.120000002469169,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 15151.782519578934,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 12.600000002566958,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 14959.207812547684,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 13.120000002672896,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 14766.631640672684,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 13.640000002778834,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 14574.056933641434,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 14.160000002884772,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 14381.482226610184,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 14.68000000299071,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 14181.500293016434,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 15.200000003096648,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 13996.331835985184,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 15.720000003202586,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 13803.756640672684,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 16.240000003308523,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 13611.181933641434,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 16.76000000341446,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 13414.533007860184,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 17.2800000035204,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 13211.218066453934,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 17.840000003634486,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 13014.569628953934,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 18.360000003740424,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 12813.846972703934,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 18.92000000385451,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 12618.679003953934,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 19.44000000396045,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 12426.104296922684,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 19.960000004066387,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 12229.455859422684,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 20.520000004180474,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 12022.067187547684,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 21.08000000429456,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 11814.678515672684,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 21.64000000440865,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 11611.363574266434,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 22.160000004514586,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 11403.975390672684,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 22.720000004628673,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 11211.400195360184,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 23.28000000474276,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 10989.198046922684,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 23.840000004856847,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 10789.216113328934,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 24.400000004970934,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 10574.421191453934,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 24.96000000508502,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 10381.845507860184,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 25.52000000519911,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 10159.643847703934,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 26.120000005321344,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 9952.255175828934,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 26.68000000543543,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 9737.459765672684,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 27.24000000554952,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 9537.477832078934,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 27.800000005663605,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 9330.090136766434,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 28.360000005777692,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 9122.700976610184,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 28.92000000589178,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 8900.499072313309,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 29.520000006014016,
+        "current_stage": 5,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 8726.914599657059,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 29.880000006087357,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 8694.340576171875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 30.400000006193295,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 8649.1494140625,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 30.920000006299233,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 8603.958740234375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 31.56000000642962,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 8548.339111328125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 32.24000000656815,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 8489.8095703125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 32.92000000670669,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 8434.766357421875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 33.60000000684522,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 8378.810302734375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 34.36000000700005,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 8327.709716796875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 35.08000000714674,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 8275.67578125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 35.80000000729342,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 8221.515869140625,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 36.56000000744825,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 8167.36572265625,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 37.280000007594936,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 8118.42138671875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 38.04000000774977,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 8069.615234375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 38.8000000079046,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 8018.09716796875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 39.520000008051284,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 7967.935546875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 40.280000008206116,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 7914.31640625,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 41.04000000836095,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 7863.5439453125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 41.80000000851578,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 7814.73828125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 42.56000000867061,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 7763.220458984375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 43.2800000088173,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 7711.70263671875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 44.04000000897213,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 7660.1845703125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 44.80000000912696,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 7611.37841796875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 45.560000009281794,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 7558.5048828125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 46.320000009436626,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 7506.9873046875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 47.04000000958331,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 7455.469482421875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 47.84000000974629,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 7403.951904296875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 48.60000000990112,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 7353.7900390625,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 49.360000010055955,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 7302.272216796875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 50.12000001021079,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 7250.75439453125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 50.88000001036562,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 7196.52490234375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 51.6800000105286,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 7147.421875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 52.440000010683434,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 7101.118408203125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 53.280000010854565,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 7054.251953125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 54.20000001104199,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 6995.434326171875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 55.16000001123757,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 6935.36474609375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 56.12000001143315,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 6875.29541015625,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 57.04000001162058,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 6817.72900390625,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 58.000000011816155,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 6757.65966796875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 58.96000001201173,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 6698.842041015625,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 59.92000001220731,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 6638.77294921875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 60.88000001240289,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 6578.70361328125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 61.840000012598466,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 6518.63427734375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 62.800000012794044,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 6458.565185546875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 63.76000001298962,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 6398.495849609375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 64.7200000131852,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 6338.426513671875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 65.68000001338078,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 6278.357177734375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 66.64000001357635,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 6218.287841796875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 67.60000001377193,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 6158.21875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 68.68000001399196,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 6090.640625,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 69.72000001420383,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 6029.335693359375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 70.76000001441571,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 5971.90234375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 71.84000001463573,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 5916.684814453125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 72.92000001485576,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 5864.10693359375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 73.98000001507171,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 5813.010498046875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 75.08000001529581,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 5762.672119140625,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 76.14000001551176,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 5718.829833984375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 77.20000001572771,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 5674.237060546875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 78.28000001594773,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 5629.560302734375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 79.34000001616369,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 5585.806884765625,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 80.42000001638371,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 5546.714599609375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 81.46000001659559,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 5508.024169921875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 82.56000001681969,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 5468.603759765625,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 83.60000001703156,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 5429.183349609375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 84.72000001725974,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 5389.7626953125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 85.80000001747976,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 5350.013671875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 86.86000001769571,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 5311.65185546875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 87.94000001791574,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 5272.231201171875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 89.02000001813576,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 5232.81103515625,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 90.06000001834764,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 5193.791748046875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 91.16000001857174,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 5154.69970703125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 92.22000001878769,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 5116.00927734375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 93.30000001900771,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 5076.5888671875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 94.36000001922366,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 5037.8984375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 95.38000001943146,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 5000.667724609375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 96.46000001965149,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 4960.9189453125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 97.50000001986336,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 4922.958251953125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 98.58000002008339,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 4883.5380859375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 99.64000002029934,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 4844.117431640625,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 100.72000002051936,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 4805.025390625,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 101.82000002074346,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 4764.54638671875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 102.88000002095941,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 4725.85595703125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 103.98000002118351,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 4686.435302734375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 104.98000002138724,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 4649.93505859375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 106.02000002159912,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 4611.974609375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 107.02000002180284,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 4575.47412109375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 108.10000002202287,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 4536.38232421875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 109.1800000222429,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 4496.6329345703125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 110.26000002246292,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 4457.212646484375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 111.34000002268294,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 4417.792236328125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 112.4000000228989,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 4379.43017578125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 113.48000002311892,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 4340.009521484375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 114.56000002333894,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 4300.2607421875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 115.64000002355897,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 4264.3233642578125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 116.720000023779,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 4232.4114990234375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 117.78000002399494,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 4199.8497314453125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 118.90000002422312,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 4167.996826171875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 119.96000002443907,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 4136.6759033203125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 121.0400000246591,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 4104.7640380859375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 122.12000002487912,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 4073.1181640625,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 123.22000002510322,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 4040.615478515625,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 124.32000002532732,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 4008.1124267578125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 125.40000002554734,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 3976.200927734375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 126.48000002576737,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 3944.0230712890625,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 127.56000002598739,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 3912.377197265625,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 128.64000002620742,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 3880.46533203125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 129.72000002642744,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 3848.5535888671875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 130.80000002664747,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 3816.6414794921875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 131.8800000268675,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 3784.7296142578125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 132.94000002708344,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 3753.4088134765625,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 134.02000002730347,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 3721.4969482421875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 135.08000002751942,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 3689.585205078125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 136.18000002774352,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 3657.67333984375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 137.26000002796354,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 3625.761474609375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 138.34000002818357,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 3593.849609375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 139.4200000284036,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 3561.937744140625,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 140.50000002862362,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 3530.02587890625,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 141.60000002884772,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 3497.84814453125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 142.66000002906367,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 3466.2022705078125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 143.7400000292837,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 3434.2904052734375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 144.8400000295078,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 3401.78759765625,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 145.92000002972782,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 3369.875732421875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 147.00000002994784,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 3337.9638671875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 148.0600000301638,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 3306.0521240234375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 149.1600000303879,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 3274.1402587890625,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 150.24000003060792,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 3242.2283935546875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 151.34000003083202,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 3209.7255859375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 152.42000003105204,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 3177.813720703125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 153.50000003127207,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 3145.90185546875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 154.56000003148802,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 3113.989990234375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 155.66000003171212,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 3082.078125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 156.76000003193622,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 3049.5753173828125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 157.84000003215624,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 3017.66357421875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 158.94000003238034,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2985.160888671875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 160.02000003260036,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2954.2857666015625,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 161.08000003281632,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2931.9395751953125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 162.16000003303634,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2909.4134521484375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 163.24000003325636,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2886.8875732421875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 164.3200000334764,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2864.3614501953125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 165.40000003369641,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2842.06494140625,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 166.46000003391237,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2819.7264404296875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 167.52000003412832,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2797.200439453125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 168.62000003435242,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2774.48681640625,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 169.68000003456837,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2751.5018310546875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 170.82000003480061,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2726.89013671875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 172.000000035041,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2701.861083984375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 173.20000003528548,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2679.1473388671875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 174.2800000355055,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2655.974853515625,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 175.40000003573368,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2630.9459228515625,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 176.60000003597816,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2605.9168701171875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 177.80000003622263,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2581.3052978515625,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 178.98000003646303,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2556.6934814453125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 180.16000003670342,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2532.08154296875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 181.34000003694382,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2507.4698486328125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 182.5400000371883,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2482.21142578125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 183.76000003743684,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2456.57763671875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 184.9800000376854,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2431.131591796875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 186.18000003792986,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2406.5198974609375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 187.38000003817433,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2381.4908447265625,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 188.56000003841473,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2356.8790283203125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 189.74000003865513,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2332.2674560546875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 190.92000003889552,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2307.6556396484375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 192.10000003913592,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2283.0438232421875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 193.3000000393804,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2257.5977172851562,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 194.52000003962894,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2232.56884765625,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 195.70000003986934,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2207.539794921875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 196.9000000401138,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2182.9281005859375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 198.0800000403542,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2158.3163452148438,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 199.2600000405946,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2133.7045288085938,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 200.46000004083908,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2108.675537109375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 201.66000004108355,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2083.6466674804688,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 202.84000004132395,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2059.0348510742188,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 204.02000004156434,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2034.0059814453125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 205.2400000418129,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 2008.97705078125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 206.4200000420533,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 1984.3652954101562,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 207.6000000422937,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 1961.651611328125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 208.6800000425137,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 1938.4788818359375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 209.80000004274189,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 1913.8671875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 210.98000004298228,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 1888.8381958007812,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 212.18000004322676,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 1863.809326171875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 213.38000004347123,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 1838.7803344726562,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 214.5800000437157,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 1814.1685791015625,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 215.7600000439561,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 1789.1397094726562,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 216.96000004420057,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 1764.5278930664062,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 218.14000004444097,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 1741.62646484375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 219.24000004466507,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 1717.3900146484375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 220.42000004490546,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 1692.3611450195312,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 221.60000004514586,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 1667.7493896484375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 222.78000004538626,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 1642.720458984375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 223.98000004563073,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 1617.6915283203125,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 225.1800000458752,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 1592.2454223632812,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 226.40000004612375,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 1567.6336669921875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 227.58000004636415,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 1545.1492919921875,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 228.60000004657195,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 1523.2282104492188,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 229.6600000467879,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 1501.3486938476562,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 230.62000004698348,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 1481.0961303710938,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 231.74000004721165,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 1457.0892333984375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 232.8800000474439,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 1432.060302734375,
+        "fuel_percentage": 0.0
+    },
+    {
+        "time": 234.08000004768837,
+        "current_stage": 4,
+        "stage_fuel_mass_kg": 0.0,
+        "total_fuel_mass_kg": 1407.0314331054688,
+        "fuel_percentage": 0.0
+    }
+]

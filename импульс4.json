@@ -1,0 +1,1765 @@
+[
+    {
+        "time": 0.0,
+        "active_engines": 0,
+        "average_specific_impulse": 0,
+        "altitude_m": 81.66405935655348,
+        "atmospheric_pressure_kpa": 100.1047109375
+    },
+    {
+        "time": 0.0,
+        "active_engines": 0,
+        "average_specific_impulse": 0,
+        "altitude_m": 81.66405935678631,
+        "atmospheric_pressure_kpa": 100.1047109375
+    },
+    {
+        "time": 0.0,
+        "active_engines": 0,
+        "average_specific_impulse": 0,
+        "altitude_m": 81.66405935713556,
+        "atmospheric_pressure_kpa": 100.1047109375
+    },
+    {
+        "time": 0.0,
+        "active_engines": 0,
+        "average_specific_impulse": 0,
+        "altitude_m": 81.6640593566699,
+        "atmospheric_pressure_kpa": 100.1047109375
+    },
+    {
+        "time": 0.0,
+        "active_engines": 32,
+        "average_specific_impulse": 259.9230852127075,
+        "altitude_m": 81.66405935701914,
+        "atmospheric_pressure_kpa": 100.1047109375
+    },
+    {
+        "time": 0.0,
+        "active_engines": 32,
+        "average_specific_impulse": 259.9248366355896,
+        "altitude_m": 82.10892881127074,
+        "atmospheric_pressure_kpa": 100.099125
+    },
+    {
+        "time": 1.080000000220025,
+        "active_engines": 32,
+        "average_specific_impulse": 260.02789783477783,
+        "altitude_m": 97.75996431929525,
+        "atmospheric_pressure_kpa": 99.872921875
+    },
+    {
+        "time": 2.120000000431901,
+        "active_engines": 32,
+        "average_specific_impulse": 260.27942991256714,
+        "altitude_m": 133.2657973591704,
+        "atmospheric_pressure_kpa": 99.3530078125
+    },
+    {
+        "time": 3.1200000006356277,
+        "active_engines": 32,
+        "average_specific_impulse": 260.6686964035034,
+        "altitude_m": 187.99081166344695,
+        "atmospheric_pressure_kpa": 98.5527421875
+    },
+    {
+        "time": 4.040000000823056,
+        "active_engines": 32,
+        "average_specific_impulse": 261.1435618400574,
+        "altitude_m": 254.32362876820844,
+        "atmospheric_pressure_kpa": 97.5880234375
+    },
+    {
+        "time": 4.880000000994187,
+        "active_engines": 32,
+        "average_specific_impulse": 261.6906132698059,
+        "altitude_m": 330.9953726704698,
+        "atmospheric_pressure_kpa": 96.481390625
+    },
+    {
+        "time": 5.680000001157168,
+        "active_engines": 32,
+        "average_specific_impulse": 262.3020272254944,
+        "altitude_m": 417.3917856782209,
+        "atmospheric_pressure_kpa": 95.2458359375
+    },
+    {
+        "time": 6.48000000132015,
+        "active_engines": 32,
+        "average_specific_impulse": 263.0087356567383,
+        "altitude_m": 516.9576582318405,
+        "atmospheric_pressure_kpa": 93.8372578125
+    },
+    {
+        "time": 7.280000001483131,
+        "active_engines": 32,
+        "average_specific_impulse": 263.8036403656006,
+        "altitude_m": 629.8215124190319,
+        "atmospheric_pressure_kpa": 92.2605
+    },
+    {
+        "time": 8.040000001637964,
+        "active_engines": 32,
+        "average_specific_impulse": 264.68298149108887,
+        "altitude_m": 756.123632112518,
+        "atmospheric_pressure_kpa": 90.5211015625
+    },
+    {
+        "time": 8.840000001800945,
+        "active_engines": 32,
+        "average_specific_impulse": 265.601336479187,
+        "altitude_m": 888.6926636715652,
+        "atmospheric_pressure_kpa": 88.7237578125
+    },
+    {
+        "time": 9.640000001963926,
+        "active_engines": 32,
+        "average_specific_impulse": 266.6486692428589,
+        "altitude_m": 1041.6239057318307,
+        "atmospheric_pressure_kpa": 86.6860703125
+    },
+    {
+        "time": 10.400000002118759,
+        "active_engines": 32,
+        "average_specific_impulse": 267.7780656814575,
+        "altitude_m": 1208.4164786818437,
+        "atmospheric_pressure_kpa": 84.5068359375
+    },
+    {
+        "time": 11.120000002265442,
+        "active_engines": 32,
+        "average_specific_impulse": 268.8695011138916,
+        "altitude_m": 1375.1503303808859,
+        "atmospheric_pressure_kpa": 82.3727578125
+    },
+    {
+        "time": 11.600000002363231,
+        "active_engines": 32,
+        "average_specific_impulse": 269.6515703201294,
+        "altitude_m": 1499.529791063047,
+        "atmospheric_pressure_kpa": 80.8093046875
+    },
+    {
+        "time": 12.160000002477318,
+        "active_engines": 32,
+        "average_specific_impulse": 270.4542474746704,
+        "altitude_m": 1614.55662531883,
+        "atmospheric_pressure_kpa": 79.3220703125
+    },
+    {
+        "time": 12.640000002575107,
+        "active_engines": 32,
+        "average_specific_impulse": 271.33487129211426,
+        "altitude_m": 1755.6145189448725,
+        "atmospheric_pressure_kpa": 77.66584375
+    },
+    {
+        "time": 13.160000002681045,
+        "active_engines": 32,
+        "average_specific_impulse": 272.232590675354,
+        "altitude_m": 1897.6411260114983,
+        "atmospheric_pressure_kpa": 75.96559375
+    },
+    {
+        "time": 13.680000002786983,
+        "active_engines": 32,
+        "average_specific_impulse": 273.1728801727295,
+        "altitude_m": 2045.788274233113,
+        "atmospheric_pressure_kpa": 74.2243359375
+    },
+    {
+        "time": 14.20000000289292,
+        "active_engines": 32,
+        "average_specific_impulse": 274.1494846343994,
+        "altitude_m": 2212.227502952679,
+        "atmospheric_pressure_kpa": 72.306796875
+    },
+    {
+        "time": 14.760000003007008,
+        "active_engines": 32,
+        "average_specific_impulse": 275.322847366333,
+        "altitude_m": 2436.7525691404007,
+        "atmospheric_pressure_kpa": 69.6418984375
+    },
+    {
+        "time": 15.52000000316184,
+        "active_engines": 32,
+        "average_specific_impulse": 276.3296871185303,
+        "altitude_m": 2566.5642230581725,
+        "atmospheric_pressure_kpa": 68.357890625
+    },
+    {
+        "time": 15.880000003235182,
+        "active_engines": 32,
+        "average_specific_impulse": 277.12924575805664,
+        "altitude_m": 2713.50260913535,
+        "atmospheric_pressure_kpa": 66.7724453125
+    },
+    {
+        "time": 16.32000000332482,
+        "active_engines": 32,
+        "average_specific_impulse": 278.21832180023193,
+        "altitude_m": 2906.768242199556,
+        "atmospheric_pressure_kpa": 64.58612109375
+    },
+    {
+        "time": 16.920000003447058,
+        "active_engines": 32,
+        "average_specific_impulse": 279.7063455581665,
+        "altitude_m": 3291.8034416377777,
+        "atmospheric_pressure_kpa": 60.7450546875
+    },
+    {
+        "time": 17.960000003658934,
+        "active_engines": 32,
+        "average_specific_impulse": 282.04758167266846,
+        "altitude_m": 3734.2303223193157,
+        "atmospheric_pressure_kpa": 56.56210546875
+    },
+    {
+        "time": 19.080000003887108,
+        "active_engines": 32,
+        "average_specific_impulse": 284.18931770324707,
+        "altitude_m": 4129.976325333002,
+        "atmospheric_pressure_kpa": 52.81196484375
+    },
+    {
+        "time": 20.080000004090834,
+        "active_engines": 32,
+        "average_specific_impulse": 286.3454999923706,
+        "altitude_m": 4610.21532580012,
+        "atmospheric_pressure_kpa": 48.77073046875
+    },
+    {
+        "time": 21.16000000431086,
+        "active_engines": 32,
+        "average_specific_impulse": 288.6209201812744,
+        "altitude_m": 5091.323700074223,
+        "atmospheric_pressure_kpa": 44.9117578125
+    },
+    {
+        "time": 22.200000004522735,
+        "active_engines": 32,
+        "average_specific_impulse": 290.79480838775635,
+        "altitude_m": 5630.017206095043,
+        "atmospheric_pressure_kpa": 40.96149609375
+    },
+    {
+        "time": 23.28000000474276,
+        "active_engines": 32,
+        "average_specific_impulse": 292.9561767578125,
+        "altitude_m": 6190.343709840556,
+        "atmospheric_pressure_kpa": 36.9495390625
+    },
+    {
+        "time": 24.400000004970934,
+        "active_engines": 32,
+        "average_specific_impulse": 295.1964416503906,
+        "altitude_m": 6805.7879041940905,
+        "atmospheric_pressure_kpa": 33.1875625
+    },
+    {
+        "time": 25.3,
+        "active_engines": 32,
+        "average_specific_impulse": 296.1964416503906,
+        "altitude_m": 7005.7879041940905,
+        "atmospheric_pressure_kpa": 33.1875625
+    },
+    {
+        "time": 25.52000000519911,
+        "active_engines": 32,
+        "average_specific_impulse": 297.2675132751465,
+        "altitude_m": 7362.678691200446,
+        "atmospheric_pressure_kpa": 29.816923828125
+    },
+    {
+        "time": 26.520000005402835,
+        "active_engines": 32,
+        "average_specific_impulse": 299.097749710083,
+        "altitude_m": 8022.194363991381,
+        "atmospheric_pressure_kpa": 26.387802734375
+    },
+    {
+        "time": 27.60000000562286,
+        "active_engines": 32,
+        "average_specific_impulse": 300.9231538772583,
+        "altitude_m": 8692.83640366525,
+        "atmospheric_pressure_kpa": 23.24146484375
+    },
+    {
+        "time": 28.600000005826587,
+        "active_engines": 32,
+        "average_specific_impulse": 302.57599353790283,
+        "altitude_m": 9368.540749192354,
+        "atmospheric_pressure_kpa": 20.300689453125
+    },
+    {
+        "time": 29.640000006038463,
+        "active_engines": 36,
+        "average_specific_impulse": 286.81422932942706,
+        "altitude_m": 10098.206286200555,
+        "atmospheric_pressure_kpa": 17.590572265625
+    },
+    {
+        "time": 30.68000000625034,
+        "active_engines": 8,
+        "average_specific_impulse": 304.1870574951172,
+        "altitude_m": 10463.354736834182,
+        "atmospheric_pressure_kpa": 16.419517578125
+    },
+    {
+        "time": 31.200000006356277,
+        "active_engines": 8,
+        "average_specific_impulse": 304.79235076904297,
+        "altitude_m": 10844.286744848941,
+        "atmospheric_pressure_kpa": 15.1948310546875
+    },
+    {
+        "time": 31.88000000649481,
+        "active_engines": 8,
+        "average_specific_impulse": 305.4933433532715,
+        "altitude_m": 11341.010235463385,
+        "atmospheric_pressure_kpa": 13.821923828125
+    },
+    {
+        "time": 32.560000006633345,
+        "active_engines": 8,
+        "average_specific_impulse": 306.1569519042969,
+        "altitude_m": 11827.008016072563,
+        "atmospheric_pressure_kpa": 12.5297451171875
+    },
+    {
+        "time": 33.28000000678003,
+        "active_engines": 8,
+        "average_specific_impulse": 306.7843780517578,
+        "altitude_m": 12373.683525554836,
+        "atmospheric_pressure_kpa": 11.2555400390625
+    },
+    {
+        "time": 34.04000000693486,
+        "active_engines": 8,
+        "average_specific_impulse": 307.3535957336426,
+        "altitude_m": 12909.077301538899,
+        "atmospheric_pressure_kpa": 10.1334736328125
+    },
+    {
+        "time": 34.80000000708969,
+        "active_engines": 8,
+        "average_specific_impulse": 307.9048194885254,
+        "altitude_m": 13476.617530546151,
+        "atmospheric_pressure_kpa": 9.0662685546875
+    },
+    {
+        "time": 35.600000007252675,
+        "active_engines": 8,
+        "average_specific_impulse": 308.37691497802734,
+        "altitude_m": 14032.777119546663,
+        "atmospheric_pressure_kpa": 8.1518525390625
+    },
+    {
+        "time": 36.28000000739121,
+        "active_engines": 8,
+        "average_specific_impulse": 308.77816009521484,
+        "altitude_m": 14562.65082575602,
+        "atmospheric_pressure_kpa": 7.32472216796875
+    },
+    {
+        "time": 37.04000000754604,
+        "active_engines": 8,
+        "average_specific_impulse": 309.1668891906738,
+        "altitude_m": 15125.153531720396,
+        "atmospheric_pressure_kpa": 6.5592109375
+    },
+    {
+        "time": 37.80000000770087,
+        "active_engines": 8,
+        "average_specific_impulse": 309.5155792236328,
+        "altitude_m": 15660.911740642856,
+        "atmospheric_pressure_kpa": 5.90610791015625
+    },
+    {
+        "time": 38.560000007855706,
+        "active_engines": 8,
+        "average_specific_impulse": 309.834171295166,
+        "altitude_m": 16244.599914744264,
+        "atmospheric_pressure_kpa": 5.26991650390625
+    },
+    {
+        "time": 39.28000000800239,
+        "active_engines": 8,
+        "average_specific_impulse": 310.1163787841797,
+        "altitude_m": 16816.736196956364,
+        "atmospheric_pressure_kpa": 4.7133369140625
+    },
+    {
+        "time": 40.08000000816537,
+        "active_engines": 8,
+        "average_specific_impulse": 310.3666877746582,
+        "altitude_m": 17377.186620620778,
+        "atmospheric_pressure_kpa": 4.22471826171875
+    },
+    {
+        "time": 40.800000008312054,
+        "active_engines": 8,
+        "average_specific_impulse": 310.58691024780273,
+        "altitude_m": 17956.357617380563,
+        "atmospheric_pressure_kpa": 3.762279052734375
+    },
+    {
+        "time": 41.600000008475035,
+        "active_engines": 8,
+        "average_specific_impulse": 310.79027938842773,
+        "altitude_m": 18508.500029970543,
+        "atmospheric_pressure_kpa": 3.389743896484375
+    },
+    {
+        "time": 42.32000000862172,
+        "active_engines": 8,
+        "average_specific_impulse": 310.96630096435547,
+        "altitude_m": 19095.083665629616,
+        "atmospheric_pressure_kpa": 3.0359091796875
+    },
+    {
+        "time": 43.0400000087684,
+        "active_engines": 8,
+        "average_specific_impulse": 311.1273384094238,
+        "altitude_m": 19654.45458357304,
+        "atmospheric_pressure_kpa": 2.711236572265625
+    },
+    {
+        "time": 43.800000008923234,
+        "active_engines": 8,
+        "average_specific_impulse": 311.2764358520508,
+        "altitude_m": 20280.261353120906,
+        "atmospheric_pressure_kpa": 2.421417724609375
+    },
+    {
+        "time": 44.56000000907807,
+        "active_engines": 8,
+        "average_specific_impulse": 311.4060745239258,
+        "altitude_m": 20847.428245535237,
+        "atmospheric_pressure_kpa": 2.174830078125
+    },
+    {
+        "time": 45.28000000922475,
+        "active_engines": 8,
+        "average_specific_impulse": 311.5216941833496,
+        "altitude_m": 21450.24911365239,
+        "atmospheric_pressure_kpa": 1.9337666015625
+    },
+    {
+        "time": 46.04000000937958,
+        "active_engines": 8,
+        "average_specific_impulse": 311.62719345092773,
+        "altitude_m": 22041.386424825992,
+        "atmospheric_pressure_kpa": 1.7329202880859376
+    },
+    {
+        "time": 46.800000009534415,
+        "active_engines": 8,
+        "average_specific_impulse": 311.7209892272949,
+        "altitude_m": 22636.728634716826,
+        "atmospheric_pressure_kpa": 1.5373790283203126
+    },
+    {
+        "time": 47.56000000968925,
+        "active_engines": 8,
+        "average_specific_impulse": 311.8076515197754,
+        "altitude_m": 23268.887877974776,
+        "atmospheric_pressure_kpa": 1.36740087890625
+    },
+    {
+        "time": 48.36000000985223,
+        "active_engines": 8,
+        "average_specific_impulse": 311.8907661437988,
+        "altitude_m": 23938.689351625508,
+        "atmospheric_pressure_kpa": 1.2049312744140626
+    },
+    {
+        "time": 49.12000001000706,
+        "active_engines": 8,
+        "average_specific_impulse": 311.9581871032715,
+        "altitude_m": 24547.824169541127,
+        "atmospheric_pressure_kpa": 1.078591796875
+    },
+    {
+        "time": 49.88000001016189,
+        "active_engines": 8,
+        "average_specific_impulse": 312.0150718688965,
+        "altitude_m": 25161.474969683215,
+        "atmospheric_pressure_kpa": 0.9630277099609375
+    },
+    {
+        "time": 50.640000010316726,
+        "active_engines": 8,
+        "average_specific_impulse": 312.06658935546875,
+        "altitude_m": 25762.941155003966,
+        "atmospheric_pressure_kpa": 0.862910888671875
+    },
+    {
+        "time": 51.36000001046341,
+        "active_engines": 8,
+        "average_specific_impulse": 312.1137351989746,
+        "altitude_m": 26419.471443835995,
+        "atmospheric_pressure_kpa": 0.7639490356445312
+    },
+    {
+        "time": 52.12000001061824,
+        "active_engines": 8,
+        "average_specific_impulse": 312.1564140319824,
+        "altitude_m": 27063.633984168642,
+        "atmospheric_pressure_kpa": 0.6799381103515625
+    },
+    {
+        "time": 52.880000010773074,
+        "active_engines": 8,
+        "average_specific_impulse": 312.1944885253906,
+        "altitude_m": 27694.931312112953,
+        "atmospheric_pressure_kpa": 0.608216552734375
+    },
+    {
+        "time": 53.8800000109768,
+        "active_engines": 8,
+        "average_specific_impulse": 312.23516845703125,
+        "altitude_m": 28416.501803746796,
+        "atmospheric_pressure_kpa": 0.53373046875
+    },
+    {
+        "time": 54.76000001115608,
+        "active_engines": 8,
+        "average_specific_impulse": 312.26832580566406,
+        "altitude_m": 29160.804581036442,
+        "atmospheric_pressure_kpa": 0.4669454956054688
+    },
+    {
+        "time": 55.60000001132721,
+        "active_engines": 8,
+        "average_specific_impulse": 312.2971649169922,
+        "altitude_m": 29910.813303278293,
+        "atmospheric_pressure_kpa": 0.40887457275390626
+    },
+    {
+        "time": 56.40000001149019,
+        "active_engines": 8,
+        "average_specific_impulse": 312.31996154785156,
+        "altitude_m": 30596.06245139276,
+        "atmospheric_pressure_kpa": 0.3629687194824219
+    },
+    {
+        "time": 57.28000001166947,
+        "active_engines": 8,
+        "average_specific_impulse": 312.34228515625,
+        "altitude_m": 31374.968381070532,
+        "atmospheric_pressure_kpa": 0.3179667663574219
+    },
+    {
+        "time": 58.1200000118406,
+        "active_engines": 8,
+        "average_specific_impulse": 312.3611755371094,
+        "altitude_m": 32142.202719731256,
+        "atmospheric_pressure_kpa": 0.27993838500976564
+    },
+    {
+        "time": 59.00000001201988,
+        "active_engines": 8,
+        "average_specific_impulse": 312.3780212402344,
+        "altitude_m": 32951.5993594781,
+        "atmospheric_pressure_kpa": 0.24527090454101563
+    },
+    {
+        "time": 59.92000001220731,
+        "active_engines": 8,
+        "average_specific_impulse": 312.39435958862305,
+        "altitude_m": 33822.364994334755,
+        "atmospheric_pressure_kpa": 0.21267044067382812
+    },
+    {
+        "time": 60.88000001240289,
+        "active_engines": 8,
+        "average_specific_impulse": 312.4085464477539,
+        "altitude_m": 34700.89411823789,
+        "atmospheric_pressure_kpa": 0.1839376220703125
+    },
+    {
+        "time": 61.840000012598466,
+        "active_engines": 8,
+        "average_specific_impulse": 312.420955657959,
+        "altitude_m": 35568.75596528081,
+        "atmospheric_pressure_kpa": 0.15889952087402343
+    },
+    {
+        "time": 62.800000012794044,
+        "active_engines": 8,
+        "average_specific_impulse": 312.43151092529297,
+        "altitude_m": 36462.98649019946,
+        "atmospheric_pressure_kpa": 0.13766465759277344
+    },
+    {
+        "time": 63.76000001298962,
+        "active_engines": 8,
+        "average_specific_impulse": 312.4409523010254,
+        "altitude_m": 37384.13187275536,
+        "atmospheric_pressure_kpa": 0.11864759826660157
+    },
+    {
+        "time": 64.76000001319335,
+        "active_engines": 8,
+        "average_specific_impulse": 312.4489326477051,
+        "altitude_m": 38294.48133632983,
+        "atmospheric_pressure_kpa": 0.10275712585449219
+    },
+    {
+        "time": 65.68000001338078,
+        "active_engines": 8,
+        "average_specific_impulse": 312.4556427001953,
+        "altitude_m": 39193.56843155855,
+        "atmospheric_pressure_kpa": 0.08920112609863282
+    },
+    {
+        "time": 66.64000001357635,
+        "active_engines": 8,
+        "average_specific_impulse": 312.46142578125,
+        "altitude_m": 40119.78816749656,
+        "atmospheric_pressure_kpa": 0.07758265686035157
+    },
+    {
+        "time": 67.60000001377193,
+        "active_engines": 8,
+        "average_specific_impulse": 312.46643829345703,
+        "altitude_m": 41054.319947983604,
+        "atmospheric_pressure_kpa": 0.06767910766601562
+    },
+    {
+        "time": 68.68000001399196,
+        "active_engines": 8,
+        "average_specific_impulse": 312.4713325500488,
+        "altitude_m": 42115.73677712004,
+        "atmospheric_pressure_kpa": 0.05755690383911133
+    },
+    {
+        "time": 69.72000001420383,
+        "active_engines": 8,
+        "average_specific_impulse": 312.4756546020508,
+        "altitude_m": 43147.689487683936,
+        "atmospheric_pressure_kpa": 0.04886462020874023
+    },
+    {
+        "time": 70.76000001441571,
+        "active_engines": 8,
+        "average_specific_impulse": 312.4794807434082,
+        "altitude_m": 44207.745742775965,
+        "atmospheric_pressure_kpa": 0.041181953430175784
+    },
+    {
+        "time": 71.84000001463573,
+        "active_engines": 8,
+        "average_specific_impulse": 312.4828453063965,
+        "altitude_m": 45295.94307312358,
+        "atmospheric_pressure_kpa": 0.034468910217285154
+    },
+    {
+        "time": 72.92000001485576,
+        "active_engines": 8,
+        "average_specific_impulse": 312.48565673828125,
+        "altitude_m": 46390.69759486697,
+        "atmospheric_pressure_kpa": 0.028768939971923826
+    },
+    {
+        "time": 73.98000001507171,
+        "active_engines": 8,
+        "average_specific_impulse": 312.48804473876953,
+        "altitude_m": 47491.79466207395,
+        "atmospheric_pressure_kpa": 0.02395206642150879
+    },
+    {
+        "time": 75.08000001529581,
+        "active_engines": 8,
+        "average_specific_impulse": 312.49007415771484,
+        "altitude_m": 48599.328380742925,
+        "atmospheric_pressure_kpa": 0.019881292343139647
+    },
+    {
+        "time": 76.14000001551176,
+        "active_engines": 8,
+        "average_specific_impulse": 312.4917984008789,
+        "altitude_m": 49691.383730756,
+        "atmospheric_pressure_kpa": 0.016480321884155272
+    },
+    {
+        "time": 77.22000001573178,
+        "active_engines": 8,
+        "average_specific_impulse": 312.4932518005371,
+        "altitude_m": 50787.897001543315,
+        "atmospheric_pressure_kpa": 0.013586250305175782
+    },
+    {
+        "time": 78.28000001594773,
+        "active_engines": 8,
+        "average_specific_impulse": 312.4944305419922,
+        "altitude_m": 51888.93617999053,
+        "atmospheric_pressure_kpa": 0.011108339309692383
+    },
+    {
+        "time": 79.34000001616369,
+        "active_engines": 8,
+        "average_specific_impulse": 312.4954605102539,
+        "altitude_m": 53015.4847409979,
+        "atmospheric_pressure_kpa": 0.009084694862365723
+    },
+    {
+        "time": 80.44000001638778,
+        "active_engines": 8,
+        "average_specific_impulse": 312.49632263183594,
+        "altitude_m": 54124.793083473574,
+        "atmospheric_pressure_kpa": 0.007412585258483886
+    },
+    {
+        "time": 81.46000001659559,
+        "active_engines": 8,
+        "average_specific_impulse": 312.49699783325195,
+        "altitude_m": 55237.17786829884,
+        "atmospheric_pressure_kpa": 0.006036369323730468
+    },
+    {
+        "time": 82.46000001659559,
+        "active_engines": 8,
+        "average_specific_impulse": 312.49699783325195,
+        "altitude_m": 55837.17786829884,
+        "atmospheric_pressure_kpa": 0.006036369323730468
+    },
+    {
+        "time": 82.56000001681969,
+        "active_engines": 8,
+        "average_specific_impulse": 312.49755859375,
+        "altitude_m": 56373.77542937698,
+        "atmospheric_pressure_kpa": 0.004878713607788086
+    },
+    {
+        "time": 83.60000001703156,
+        "active_engines": 8,
+        "average_specific_impulse": 312.49805068969727,
+        "altitude_m": 57513.70867007051,
+        "atmospheric_pressure_kpa": 0.003898956775665283
+    },
+    {
+        "time": 84.74000001726381,
+        "active_engines": 8,
+        "average_specific_impulse": 312.4984436035156,
+        "altitude_m": 58657.079953104374,
+        "atmospheric_pressure_kpa": 0.003125872850418091
+    },
+    {
+        "time": 85.80000001747976,
+        "active_engines": 8,
+        "average_specific_impulse": 312.49876403808594,
+        "altitude_m": 59825.2528726029,
+        "atmospheric_pressure_kpa": 0.002476992130279541
+    },
+    {
+        "time": 86.86000001769571,
+        "active_engines": 8,
+        "average_specific_impulse": 312.4990234375,
+        "altitude_m": 60954.47876501188,
+        "atmospheric_pressure_kpa": 0.0019753445386886596
+    },
+    {
+        "time": 87.94000001791574,
+        "active_engines": 8,
+        "average_specific_impulse": 312.4992218017578,
+        "altitude_m": 62108.64836366952,
+        "atmospheric_pressure_kpa": 0.0015640468597412109
+    },
+    {
+        "time": 89.02000001813576,
+        "active_engines": 8,
+        "average_specific_impulse": 312.4993896484375,
+        "altitude_m": 63266.58283165959,
+        "atmospheric_pressure_kpa": 0.0012113854885101318
+    },
+    {
+        "time": 90.06000001834764,
+        "active_engines": 8,
+        "average_specific_impulse": 312.4995574951172,
+        "altitude_m": 64406.828879836365,
+        "atmospheric_pressure_kpa": 0.0008861844539642334
+    },
+    {
+        "time": 91.18000001857581,
+        "active_engines": 8,
+        "average_specific_impulse": 312.49969482421875,
+        "altitude_m": 65550.87103276071,
+        "atmospheric_pressure_kpa": 0.0005931784510612488
+    },
+    {
+        "time": 92.22000001878769,
+        "active_engines": 8,
+        "average_specific_impulse": 312.4998321533203,
+        "altitude_m": 66698.77776942984,
+        "atmospheric_pressure_kpa": 0.00034504884481430053
+    },
+    {
+        "time": 93.30000001900771,
+        "active_engines": 8,
+        "average_specific_impulse": 312.4999084472656,
+        "altitude_m": 67872.40123102907,
+        "atmospheric_pressure_kpa": 0.00015179114043712617
+    },
+    {
+        "time": 94.36000001922366,
+        "active_engines": 8,
+        "average_specific_impulse": 312.49998474121094,
+        "altitude_m": 69028.36695235025,
+        "atmospheric_pressure_kpa": 3.39926928281784e-05
+    },
+    {
+        "time": 95.38000001943146,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 70144.60486822925,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 96.46000001965149,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 71352.74295104819,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 97.46000001965149,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 71352.74295104819,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 97.52000001986744,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 72499.21184350597,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 98.58000002008339,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 73694.21638074727,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 99.68000002030749,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 74893.83863658016,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 100.72000002051936,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 76098.16337996174,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 101.82000002074346,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 77329.70760968642,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 102.88000002095941,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 78521.25181567576,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 103.98000002118351,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 79740.19785221806,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 104.98000002138724,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 80873.35917490255,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 106.02000002159912,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 82056.5184649342,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 107.02000002180284,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 83198.73453906376,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 108.10000002202287,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 84414.45332705055,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 109.1800000222429,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 85681.55040315608,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 110.280000022467,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 86931.14960187324,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 111.36000002268702,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 88186.33274843614,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 112.4000000228989,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 89400.38884482009,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 113.48000002311892,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 90666.79546138074,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 114.48000002311892,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 90666.79546138074,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 114.56000002333894,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 91962.67662011518,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 115.64000002355897,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 93240.65731358924,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 116.720000023779,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 94522.27157845045,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 117.8200000240031,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 95854.8984367944,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 118.90000002422312,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 97119.5305366969,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 119.96000002443907,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 98387.54148690298,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 121.06000002466317,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 99683.03484298266,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 122.1400000248832,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 100958.13166649197,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 123.22000002510322,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 102285.15946251282,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 124.32000002532732,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 103640.36811004195,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 125.42000002555142,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 104926.81654062506,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 126.48000002576737,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 106265.83365252288,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 127.48000002576737,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 106265.83365252288,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 127.56000002598739,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 107560.11099093384,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 128.64000002620742,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 108882.87415768218,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 129.72000002642744,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 110209.81513806735,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 130.80000002664747,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 111541.00798061781,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 131.8800000268675,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 112876.52873576048,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 132.94000002708344,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 114191.60161045077,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 134.02000002730347,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 115535.92857188941,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 135.08000002751942,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 116884.81489288155,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 136.18000002774352,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 118238.3364318863,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 137.26000002796354,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 119596.57040393527,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 138.34000002818357,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 120959.5961216765,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 139.4200000284036,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 122327.49321427953,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {   "time": 140.4200000284036,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 122327.49321427953,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 140.50000002862362,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 123700.340026772,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 141.60000002884772,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 125103.77842335426,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 142.68000002906774,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 126461.19618315483,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 143.7400000292837,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 127849.36755034549,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 144.8400000295078,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 129268.66251473268,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 145.92000002972782,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 130667.55017736636,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 147.00000002994784,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 132071.86769941845,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 148.0600000301638,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 133481.69830938743,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 149.1600000303879,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 134897.12480506592,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 150.24000003060792,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 136318.2289264286,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 151.34000003083202,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 137771.57036210783,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 152.42000003105204,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 139204.3841601276,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 153.42000003105204,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 139204.3841601276,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 153.50000003127207,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 140643.1255961915,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 154.56000003148802,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 142087.879618295,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 155.66000003171212,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 143538.73021747696,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 156.76000003193622,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 145022.80229434767,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 157.84000003215624,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 146486.21704585117,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 158.94000003238034,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 147983.26436103287,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 160.02000003260036,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 149459.56315132137,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 161.08000003281632,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 150912.52856277034,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 162.16000003303634,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 152395.46143072343,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 163.24000003325636,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 153881.028610716,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 164.3200000334764,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 155369.28840800165,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 165.40000003369641,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 156860.29894464277,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 166.48000003391644,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 158326.42842039838,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 167.48000003391644,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 158326.42842039838,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 167.52000003412832,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 159823.05876389437,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 168.62000003435242,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 161378.2071298958,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 169.7400000345806,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 162908.70718589774,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 170.8400000348047,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 164609.86503781565,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 172.06000003505324,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 166342.97534252075,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 173.28000003530178,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 167743.68904798164,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 174.30000003550958,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 169315.77680460725,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 175.42000003573776,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 171088.60794377374,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 176.68000003599445,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 172809.513903333,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 176.48000003599445,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 172809.513903333,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 177.900000036243,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 174506.47123797052,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 179.12000003649155,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 176179.3469883718,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 180.28000003672787,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 177828.0045558106,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 181.4400000369642,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 179537.90634488268,
+        "atmospheric_pressure_kpa": 0.0
+    },
+      {
+        "time": 182.4400000369642,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 179537.90634488268,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 182.64000003720867,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 181252.35718939,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 183.8600000374572,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 182971.43843063165,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 185.0400000376976,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 184752.77351574553,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 186.26000003794616,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 186452.67001205613,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 187.4800000381947,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 188186.21650816663,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 188.4800000381947,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 188186.21650816663,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 188.68000003843918,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 189895.70763972646,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 189.8400000386755,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 191580.97598679934,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 191.00000003891182,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 193358.57883318467,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 192.22000003916037,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 195024.48007599043,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 193.36000003939262,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 196841.93271042523,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 194.36000003939262,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 196841.93271042523,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 194.60000003964524,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 198576.77021560213,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 195.76000003988156,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 200346.4222329592,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 196.9800000401301,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 202091.98159312527,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 198.1600000403705,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 203902.43038746214,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 199.36000004061498,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 205599.49318141176,
+        "atmospheric_pressure_kpa": 0.0
+    },
+      {
+        "time": 200.36000004061498,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 205599.49318141176,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 200.54000004085538,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 207421.43873571767,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 201.74000004109985,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 209219.44192232424,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 202.92000004134024,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 211023.4079922696,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 204.12000004158472,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 212833.42330955132,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 205.34000004183326,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 214649.57420653442,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 206.52000004207366,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 216411.10038204468,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 207.72000004231813,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 217995.40736847196,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 208.72000004252186,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 219645.72368467622,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 209.82000004274596,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 221546.98914523562,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 211.06000004299858,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 223393.583678548,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 212.24000004323898,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 225246.81838728,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 213.44000004348345,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 227137.83889151353,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 214.68000004373607,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 229004.73488988378,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 215.88000004398054,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 230878.54004245007,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 217.08000004422502,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 232696.5368477815,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 218.24000004446134,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 234300.5884852243,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 219.26000004466914,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 236131.09667801124,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 220.44000004490954,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 238127.0869407563,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 221.68000004516216,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 240003.69056807586,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 222.84000004539848,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 241887.485470484,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 224.04000004564296,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 243842.79200549913,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 225.2600000458915,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 245838.2261926001,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 226.50000004614412,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 247712.38152330043,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 227.64000004637637,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 249333.8859635978,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 228.6400000465801,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 251026.06127861224,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 229.6600000467879,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 252756.93777968187,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 230.66000004699163,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 254362.77016015758,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 231.74000004721165,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 256270.5629250796,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 232.90000004744797,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 258318.42601457413,
+        "atmospheric_pressure_kpa": 0.0
+    },
+    {
+        "time": 234.12000004769652,
+        "active_engines": 8,
+        "average_specific_impulse": 312.5,
+        "altitude_m": 260375.1744054777,
+        "atmospheric_pressure_kpa": 0.0
+    }
+]
