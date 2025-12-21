@@ -15,40 +15,42 @@ p0 = 101325  # давление на уровне моря, Па
 # ХАРАКТЕРИСТИКИ СТУПЕНЕЙ РАКЕТЫ
 stages = [
     {  # Первая ступень
-        'm0': 106000 + 59844,  # начальная масса ступени, кг
-        'mt': 59844,  # масса топлива, кг
-        't_stage': 29,  # время работы, с
-        'I_sea': 250,  # удельный импульс на уровне моря, с
-        'I_vac': 300,  # удельный импульс в вакууме, с
+        'm0': 163044.015625,  # начальная масса ступени, кг
+        'mt': 48844,  # масса топлива, кг
+        't_stage': 29.6,  # время работы, с
         'S': 10,  # площадь поперечного сечения, м²
         'Cx': 0.3  # коэффициент лобового сопротивления
     },
     {  # Вторая ступень
-        'm0': 17303 + 50303,
-        'mt': 50303,
+        'm0': 66217.9453125,
+        'mt': 49303,
         't_stage': 210,
-        'I_vac': 154,
-        'S': 10,
+        'S': 1,
         'Cx': 0.3
     },
     {  # Третья ступень
-        'm0': 3361 + 4019,
+        'm0': 3361 + 4019 + 10000,
         'mt': 4019,
         't_stage': 60,
-        'I_vac': 290,
         'S': 10,
         'Cx': 0.3
     }
 ]
+with open("угол4.json", encoding="UTF-8") as f:
+    sl_pitchs = json.load(f)
+
+pitchs = {}
+for i in range(len(sl_pitchs)):
+    pitchs[round(sl_pitchs[i]["time"])] = round(sl_pitchs[i]["pitch_vertical"])
 
 
-def theta(t): #угол между тягой и вертикалью
-    if t < 20:
-        return np.deg2rad(5)  # 5°(Преобразует углы из градусов в радианы)
-    elif t < 60:
-        return np.deg2rad(15)  # 15°
-    else:
-        return np.deg2rad(30)  # 30°
+with open("импульс4.json", encoding="UTF-8") as f:
+    sl_isp = json.load(f)
+
+isps = {}
+for i in range(len(sl_isp)):
+    isps[round(sl_isp[i]["time"])] = round(sl_isp[i]["average_specific_impulse"])
+
 
 
 def rho(h, g_h): # зависимость плотности воздуха от высоты
@@ -61,7 +63,7 @@ def rho(h, g_h): # зависимость плотности воздуха от
 # НАЧАЛЬНЫЕ УСЛОВИЯ
 t_total = sum(stage['t_stage'] for stage in stages)  # общее время полёта
 dt = 0.1
-t = np.arange(0, 250, dt)
+t = np.arange(0, 200, dt)
 
 # " Массивы результатов
 h = np.zeros_like(t)  # высота, м
@@ -102,24 +104,17 @@ for i in range(1, len(t)):
         m[i] = stage['m0'] - (stage['mt'] / stage['t_stage']) * t_in_stage
     else:
         # Уже перешли на следующую ступень — масса скачком уменьшилась
-        m[i] = stage['m0'] - stage['mt']
+        m[i] = stages[current_stage]['m0']
 
     g_h = G * M_z / (R_z + h[i - 1]) ** 2  # ускорение свободного падения на текущей высоте
     rho_h = rho(h[i - 1], g_h) # плотность воздуха
     v[i] = np.sqrt(vx[i - 1] ** 2 + vy[i - 1] ** 2) # модуль скорости
 
-    # расчёт удельного импульса
-    if current_stage == 0:
-        if t_in_stage < 30:
-            I = stage['I_sea']
-        else:
-            I = stage['I_vac']
-    else:
-        I = stage['I_vac']
+    I = isps[round(t_curr)]
 
     F_thrust = I * (stage['mt'] / stage['t_stage']) * g0  # сила тяги
     # проекции силы тяги
-    theta_t = theta(t_curr)
+    theta_t = np.deg2rad(pitchs[round(t_curr)])
     F_thrust_x = F_thrust * np.sin(theta_t)
     F_thrust_y = F_thrust * np.cos(theta_t)
 
@@ -143,20 +138,22 @@ for i in range(1, len(t)):
     h[i] = h[i - 1] + vy[i] * dt
 
 
-with open("масса2.json", encoding="UTF-8") as f:
+
+
+with open("масса4.json", encoding="UTF-8") as f:
     sl_mass = json.load(f)
-mass_ksp = [elem['mass'] for elem in sl_mass if elem["time"] <= 250]
-mass_ksp_t = [elem['time'] for elem in sl_mass if elem["time"] <= 250]
+mass_ksp = [elem['mass'] for elem in sl_mass if elem["time"] <= 200]
+mass_ksp_t = [elem['time'] for elem in sl_mass if elem["time"] <= 200]
 
-with open("высота2.json", encoding="UTF-8") as f:
+with open("высота4.json", encoding="UTF-8") as f:
     sl_height = json.load(f)
-height_ksp = [elem['height'] for elem in sl_height if elem["time"] <= 250]
-height_ksp_t = [elem['time'] for elem in sl_height if elem["time"] <= 250]
+height_ksp = [elem['height'] for elem in sl_height if elem["time"] <= 200]
+height_ksp_t = [elem['time'] for elem in sl_height if elem["time"] <= 200]
 
-with open("скорость2.json", encoding="UTF-8") as f:
+with open("скорость4.json", encoding="UTF-8") as f:
     sl_speed = json.load(f)
-speed_ksp = [elem['speed'] for elem in sl_speed if elem["time"] <= 250]
-speed_ksp_t = [elem['time'] for elem in sl_speed if elem["time"] <= 250]
+speed_ksp = [elem['speed'] for elem in sl_speed if elem["time"] <= 200]
+speed_ksp_t = [elem['time'] for elem in sl_speed if elem["time"] <= 200]
 
 
 # ПОСТРОЕНИЕ ГРАФИКОВ
